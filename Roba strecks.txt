@@ -1,0 +1,2 @@
+function Roba Strecks(string){if(string>5){return 'shut the fuck up}else{return 'whatcha say?'}
+Console.log(Roba Strecks (Eagles))
